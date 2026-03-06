@@ -9,5 +9,13 @@ package proyectojava;
  * @author mario
  */
 public class ChekinControlEquipaje {
+    private String nombre;
+    private String correo;
+    private String cedula;
+    private double tarjeta;
+    private double equipaje;
+    private double pesoequip;
+    private int numasiento;
+    private double numboleto;
     
 }

@@ -9,5 +9,9 @@ package proyectojava;
  * @author mario
  */
 public class AdministracionFlota {
-    
+   private String marca;
+   private String modelo;
+   private double nserie;
+   
+  
 }

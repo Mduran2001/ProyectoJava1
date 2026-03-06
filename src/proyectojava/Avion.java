@@ -8,10 +8,6 @@ package proyectojava;
  *
  * @author mario
  */
-public class VentasTiquetesTarifasDinamicas {
-    private  String nombre;
-    private String apellido;
-    private double cedula;
-    private  String  correo;
+public class Avion {
     
 }

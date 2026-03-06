@@ -4,7 +4,8 @@ public class ProyectoJava {
 
     
     public static void main(String[] args) {
-       // 
+       // metodo para clase 
+       
     }
     
 }
