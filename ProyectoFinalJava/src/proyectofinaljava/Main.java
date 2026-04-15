@@ -229,7 +229,7 @@ public class Main {
                 }
             }
 
-            else if (opcion.equals("9")) {
+            else if (opcion.equals("9")) {//Modurlo 5 : Cancelaciones y rembolsos
 
                 if (vuelo1 == null) {
                     
@@ -242,7 +242,7 @@ public class Main {
                 }
             }
 
-            else if (opcion.equals("10")) { // Modulo 5: Cancelaciones y remobolsos
+            else if (opcion.equals("10")) { // Reportes
 
                 if (vuelo1 == null) {
                     JOptionPane.showMessageDialog(null, "Primero debe crear un vuelo.");
